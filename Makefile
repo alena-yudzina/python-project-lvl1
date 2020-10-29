@@ -3,3 +3,9 @@ brain-games:
 
 install:
 	poetry install
+
+build:
+	poetry build
+
+package-install:
+	pip install --user dist/*.whl
