@@ -9,3 +9,6 @@ build:
 
 package-install:
 	pip install --user dist/*.whl
+
+package-uninstall:
+	pip uninstall hexlet-code
