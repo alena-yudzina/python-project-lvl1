@@ -6,3 +6,5 @@
 ![lint_flake8](https://github.com/alena-yudzina/python-project-lvl1/workflows/lint_flake8/badge.svg)
 
 [![asciicast](https://asciinema.org/a/zRPtDKYog1L85X8iNzIKbJN1o.svg)](https://asciinema.org/a/zRPtDKYog1L85X8iNzIKbJN1o)
+
+[![asciicast](https://asciinema.org/a/8nglRg359vbQppEQdN4kTUzU8.svg)](https://asciinema.org/a/8nglRg359vbQppEQdN4kTUzU8)
