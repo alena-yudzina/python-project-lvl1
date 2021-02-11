@@ -1,11 +1,18 @@
 [tool.poetry]
 name = "hexlet_code"
 version = "0.1.0"
-description = ""
+description = "short mathematics mini games"
 authors = ["elena <lenok.ok.lol@gmail.com>"]
 packages = [
   { include = "brain_games" },
 ]
+classifiers = [
+    "Programming Language :: Python :: 3.6",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Operating System :: POSIX",
+]
+repository = "https://github.com/alena-yudzina/python-project-lvl1"
 
 [tool.poetry.dependencies]
 python = "^3.6"
