@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hexlet_code"
+name = "hexlet-code"
 version = "0.1.0"
 description = "short mathematics mini games"
 authors = ["elena <lenok.ok.lol@gmail.com>"]
