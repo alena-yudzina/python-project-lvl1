@@ -4,6 +4,11 @@ brain-games:
 install:
 	poetry install
 
+update:
+	pip3 uninstall hexlet-code
+	poetry build
+	pip3 install --user dist/*.whl
+
 build:
 	poetry build
 
